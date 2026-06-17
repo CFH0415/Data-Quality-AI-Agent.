@@ -1,4 +1,4 @@
-# Data Quality Remediation Assistant
+# Data Quality Remediation AI Assistant
 
 **MSBA 6431: Big Data** | Team project · My contribution: AI agent pipeline (`src/llm/suggestion.py`)
 
